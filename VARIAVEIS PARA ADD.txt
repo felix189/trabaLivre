@@ -1,0 +1,9 @@
+variaveis para add
+
+       nome   | nome para a variavel
+
+quantidade de vagas - qtVagas
+nome da vaga - NoVaga 
+salario - salario
+localiazação - local
+requisitos - requi

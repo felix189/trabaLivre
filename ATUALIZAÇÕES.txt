@@ -1,0 +1,21 @@
+Adições: (Felix)
+Dois <buttons> para voltar a pagina de cadastro nos arquivos cadastroEmpregado e cadastroEmpresa
+Uma nova fuction com window.location para as paginas cadastroEmpregado e cadastroEmpresa
+php de cadastro das paginas cadastroEmpregado e cadastroEmpresa
+
+24/06 (Lilli)
+
+Perfil iniciado
+busca arrumado a navBar
+baguguinhas (colocado coisas na barra de navegação)
+um pouco do CSS feito
+
+nota (p/ Felix) - Add campo NULO no bd de usuário para imagem de perfil //blz
+nota (p/ Lilli) - Fazer página e tudo mais para mudar a foto de perfil
+
+15/07
+
+Mudança na tabela de usuários, exclui o CPF e fiz do email a chave primaria
+Criação de uma nova tabela para currículos(ta_curriculo), com 7 colunas(nome, email, numero, formação, experiencia, competências e descrição)
+
+

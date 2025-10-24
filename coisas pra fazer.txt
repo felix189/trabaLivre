@@ -1,0 +1,6 @@
+prototipo de tela
+elaborar funções de sistema e tecnologias
+finalizar design
+filtros de pessoas e cargo horaria
+chat entre recrutador e recruta
+
